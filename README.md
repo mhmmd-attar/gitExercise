@@ -5,3 +5,5 @@ NPM     : 2106657992
 Class   : International
 
 Hobby   : Game
+
+Status  : ALive
