@@ -6,4 +6,4 @@ Class   : International
 
 Hobby   : Game
 
-Status  : ALive
+Status  : Alive
